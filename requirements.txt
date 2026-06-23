@@ -1,0 +1,6 @@
+No external packages required.
+Python 3.14+
+Tkinter
+Socket
+Subprocess
+Threading
